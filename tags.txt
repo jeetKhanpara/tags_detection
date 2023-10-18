@@ -1,0 +1,45 @@
+- Alarm System
+- Dishwasher
+- Fireplace
+- Gym
+- Balcony
+- Courtyard
+- Pool (Above Ground)
+- Pool (Inground)
+- Bathroom
+- Bedroom
+- Kitchen
+- Tennis Court
+- Broadband
+- Built in Robes
+- Ensuite
+- Floor Boards
+- Heating Other
+- Hot Water Gas
+- Hot Water Electric
+- Hot Water Solar
+- Intercom
+- Pay TV
+- Rumpus Room
+- Spa
+- Study
+- Vacuum System
+- Workshop
+- Deck
+- Fully Fenced
+- Outdoor Entertainment
+- Remote Garage
+- Secure Parking
+- Shed
+- Air Conditioning
+- Ducted Cooling
+- Ducted Heating
+- Evaporative Cooling
+- Heating Gas
+- Heating Electric
+- Heating Hydronic
+- Reverse Cycle Air Con
+- Split System (Heating)
+- Split System (Air Con)
+- Panels
+- Water Tank
